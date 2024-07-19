@@ -13,3 +13,9 @@
 .card:hover {
   transform: scale(1.05); /* Zoom effect */
 }
+a{
+  color: black;
+}
+.card button{
+  background-color: #4b0082;
+}
